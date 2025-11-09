@@ -1,3 +1,4 @@
 # demo
-This is my first Git repository.
-Author - Bhumika Modi
+<h2>This is my first Git repository.</h2>
+<br>
+<h3>Author - Bhumika Modi</h3>
